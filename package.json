@@ -22,7 +22,7 @@
   "dependencies": {
     "@atomist/clj-editors": "0.2.13",
     "npm-test": "0.0.7",
-    "npm-test-1": "0.0.4"
+    "npm-test-1": "0.0.5"
   },
   "peerDependencies": {
     "@atomist/automation-client": "^0.18.0",
