@@ -30,6 +30,11 @@
     "graphql-code-generator": "^0.8.19",
     "apollo-codegen": "^0.19.1"
   },
+  "dependencies": {
+    "@atomist/clj-editors": "0.2.13",
+    "npm-test": "0.0.13",
+    "npm-test-1": "0.0.9"
+  },
   "author": "Atomist, Inc.",
   "repository": {
     "type": "git",
@@ -44,15 +49,6 @@
     "clojure",
     "fingerprints"
   ],
-  "homepage": "https://github.com/atomist/sdm-pack-fingerprints#readme",
-  "bugs": {
-    "url": "https://github.com/atomist/sdm-pack-fingerprints/issues"
-  },
-  "dependencies": {
-    "@atomist/clj-editors": "0.2.13",
-    "npm-test": "0.0.15",
-    "npm-test-1": "0.0.9"
-  },
   "peerDependencies": {
     "@atomist/automation-client": "^0.18.0",
     "@atomist/sdm": "^0.3.2",
