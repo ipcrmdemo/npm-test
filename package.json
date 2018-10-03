@@ -27,7 +27,7 @@
     "url": "https://github.com/atomist/sdm-pack-fingerprints.git"
   },
   "homepage": "https://github.com/atomist/sdm-pack-fingerprints#readme",
-  "name": "@atomist/sdm-pack-npmtest",
+  "name": "@slimslender/npm-test",
   "keywords": [
     "atomist",
     "automation",
