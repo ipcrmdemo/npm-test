@@ -45,5 +45,7 @@
   },
   "version": "0.2.27",
   "description": "an Atomist SDM Extension Pack for fingerprinting code",
-  "scripts": {}
+  "scripts": {
+    "build": "echo testbuild"
+  }
 }
