@@ -24,6 +24,12 @@
     "fs": "0.0.1-security",
     "lodash": "^4.17.11"
   },
+  "backpack-react-scripts": {
+    "externals": {
+      "react": "v7.1",
+      "react-dom": "v7.1"
+    }
+  },
   "author": "Atomist, Inc.",
   "repository": {
     "type": "git",
