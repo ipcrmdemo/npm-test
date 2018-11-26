@@ -1,4 +1,5 @@
 {
+  "version": "0.2.38",
   "engines": {
     "node": "9.x.x",
     "npm": "5.x.x"
@@ -52,7 +53,6 @@
   "bugs": {
     "url": "https://github.com/atomist/sdm-pack-fingerprints/issues"
   },
-  "version": "0.2.37",
   "description": "an Atomist SDM Extension Pack for fingerprinting code",
   "scripts": {
     "build": "echo testbuild"
