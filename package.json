@@ -1,4 +1,10 @@
 {
+  "backpack-react-scripts": {
+    "externals": {
+      "react": "v7.7",
+      "react-dom": "v7.7"
+    }
+  },
   "version": "0.2.40",
   "engines": {
     "node": "9.x.x",
