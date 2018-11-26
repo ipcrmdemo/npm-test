@@ -27,8 +27,8 @@
   },
   "backpack-react-scripts": {
     "externals": {
-      "react": "v7.1.0",
-      "react-dom": "v7.1.0"
+      "react": "v7.1.1",
+      "react-dom": "v7.1.1"
     }
   },
   "author": "Atomist, Inc.",
